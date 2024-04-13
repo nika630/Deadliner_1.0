@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="bgr_main">
+    <file>background_mainwin.png</file>
+  </qresource>
+</RCC>
